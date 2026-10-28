@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="porkin-logo.svg" alt="Porkin" height="72" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="porkin-logo-dark.svg" />
+    <img src="porkin-logo.svg" alt="Porkin" height="72" />
+  </picture>
 </p>
 
 <p align="center"><strong>Controle financeiro pessoal que guarda seus dados só no seu computador.</strong></p>
@@ -17,7 +20,7 @@ Baixe o instalador mais recente em **[Releases](https://github.com/lucasguima-su
 ## O que dá para fazer
 
 - Registrar receitas, despesas e transferências, com categoria, conta e forma de pagamento.
-- Acompanhar contas e cartões de crédito (fatura, limite, parcelas).
+- Acompanhar contas e cartões de crédito (fatura, limite, parcelas), com a opção de antecipar faturas.
 - Ver no painel o saldo do mês, para onde foi o dinheiro, o ritmo de gastos e os orçamentos por categoria.
 - Guardar dinheiro em cofrinhos com metas, aportes mensais automáticos e rendimento por % do CDI ou taxa fixa,
   com estimativa de IR e IOF no resgate.
